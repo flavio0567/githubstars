@@ -51,9 +51,9 @@ export const Starred = styled.View`
 `;
 
 export const OwnerAvatar = styled.Image`
-  width: 42;
-  height: 42;
-  border-radius: 21;
+  width: 42px;
+  height: 42px;
+  border-radius: 21px;
   background: #eee;
 `;
 
